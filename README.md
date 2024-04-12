@@ -9,5 +9,13 @@
 ```bash
 $ npm install my-project
 ```
+
+## 以下会有一些对`solution`的（个人认为的）勘误，请大家按需选择参考。
+
+1. 在`solution4`中的4.16题里，第二小问个人认为
+```bash
+流水线处理器对于ld指令的延迟应该为350*5 =  1750ps。
+```
+
 这是2024春季学期李曦老师的课程主页，可能有你想要的资源。
 [点击这里](http://staff.ustc.edu.cn/~llxx/cod/index.html)
