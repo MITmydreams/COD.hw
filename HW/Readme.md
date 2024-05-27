@@ -3,5 +3,5 @@
 但是有一些问题还没更新捏，统一假期勘误啦！
 
 - 在第七次作业中涉及到了一些关于全相联和组相联的问题，这里指路我们的实验文档理解啦！[戳这里！](https://soc.ustc.edu.cn/COD/lab7/cache/)
-- 第八次作业是唐朔飞老师的课后题，有一个参考答案可以戳这里！不过建议理解后再copy![Look!](https://blog.csdn.net/weixin_45735391/article/details/127336659)
+- 第八次作业是唐朔飞老师的课后题，有一个参考答案可以戳这里！不过建议理解后再copy! [Look!](https://blog.csdn.net/weixin_45735391/article/details/127336659)
 - 也许我会在这里放一些我的理解和纠正？（也许）
